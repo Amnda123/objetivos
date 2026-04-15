@@ -53,6 +53,9 @@ border-radius: 40px 40px 0 0;
 .aba-conteudo.ativo{
     display: block;
 }
+.aba-conteudo{
+    display: none;
+}
 .abas-texto{
     background-color: var(--cor-de-fundo);
     padding: 40px;
