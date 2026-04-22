@@ -57,7 +57,7 @@ border-radius: 40px 40px 0 0;
     display: none;
 }
 .abas-texto{
-    background-color: var(--cor-de-fundo);
+    background-color:#9E1C60;
     padding: 40px;
     border-radius: 0 0 40px 40px;
 }
