@@ -62,7 +62,7 @@ border-radius: 40px 40px 0 0;
     border-radius: 0 0 40px 40px;
 }
 .abas-texto{
-    background-color: var(--botao-inativo);
+    background-color: #9E1C60;
     padding:40px;
     border-radius: 0 0 40px 40px;
 }
